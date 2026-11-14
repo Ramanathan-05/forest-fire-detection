@@ -61,6 +61,6 @@ python predict.py
 
 ## Author
 
-Ramanathan P
+Ramanathan PL
 Electronics and Communication Engineering
 PSNA College of Engineering and Technology
